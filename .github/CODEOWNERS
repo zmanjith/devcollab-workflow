@@ -1,0 +1,7 @@
+# This file defines who is responsible for specific parts of the code.
+
+# Every file in the repository will be owned by you
+* @zmanjith@gmail.com
+
+# Only files inside the 'src' directory will be owned by you
+/src/    @zmanjith@gmail.com
