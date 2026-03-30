@@ -1,0 +1,35 @@
+*   4698de6 Merge branch 'develop'
+|\  
+| *   f912e0f Merge branch 'feature/user-authentication' into develop
+| |\  
+| * \   abf4a17 merge(api): merge feature/api-integration into develop
+| |\ \  
+* | | | 4c938b0 Merge pull request #6 from zmanjith/develop
+|\| | | 
+| * | | a01ee55 feat(dev): General development update
+* | | |   d786720 Merge pull request #5 from zmanjith/feature/api-integration
+|\ \ \ \  
+| | |/ /  
+| |/| |   
+| * | | 0182bc1 feat(api) : Api integration code updated
+| |/ /  
+* | |   9ca97f7 Merge pull request #4 from zmanjith/feature/user-authentication
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 0d3da11 feat(auth) : New user authentication feature added
+|/  
+*   6761497 Merge pull request #3 from zmanjith/feature/api-integration
+|\  
+| * c46e31f api-integration first commit
+* |   a54c91e Merge pull request #2 from zmanjith/feature/user-authentication
+|\ \  
+| * | c0ae4de User-authentication-code.txt first commit
+| |/  
+| * 5e2367d  User authentication first commit
+* | bd1eb43 Merge pull request #1 from zmanjith/develop
+|\| 
+| * c31b6f9 First Commit
+|/  
+* 7b481c5 Initial commit
