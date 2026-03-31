@@ -1,0 +1,21 @@
+{
+  "name": "devcollab-workflow",
+  "version": "1.0.0",
+  "description": "Design implementing a Git workflow for a project in DevCollab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmanjith/devcollab-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zmanjith/devcollab-workflow/issues"
+  },
+  "homepage": "https://github.com/zmanjith/devcollab-workflow#readme"
+}
