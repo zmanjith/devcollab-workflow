@@ -1,4 +1,4 @@
-﻿name: CI Pipeline
+name: CI Pipeline
 on: [push, pull_request]
 
 jobs:
@@ -14,5 +14,3 @@ jobs:
       - run: npm test
 
 #updated with all the actions
-#installed the dependencies
-#version given as 18
