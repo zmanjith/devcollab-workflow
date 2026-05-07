@@ -2,12 +2,12 @@
 
 A lightweight, extensible collaboration workflow scaffold for building and operating developer-facing systems. This repository focuses on a clear separation of concerns (interfaces ↔ application/workflow ↔ domain ↔ infrastructure), so teams can iterate quickly without accumulating coupling.
 
-## Project summary (resume-ready)
+## Project summary 
 - Built and documented a modular **developer collaboration workflow** with an **architecture-first** structure for long-term maintainability.
 - Applied **clean/hexagonal architecture** principles to keep core workflow logic independent from delivery mechanisms (CLI/HTTP) and external services.
 - Established clear **layer boundaries, conventions, and repository structure** to accelerate onboarding and make adding new workflow steps/integrations predictable.
 
-## Architecture (prioritized)
+## Architecture 
 
 ### High-level view
 The system is organized into layered modules so that business rules remain independent of frameworks and external services.
